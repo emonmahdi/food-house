@@ -30,7 +30,7 @@ p{
     margin-bottom: 20px;
     color:#8C8C8C;
     line-height: 25px;
-    font-weight: 200;
+    font-weight: 500;
 }
 .link-btn{
     text-decoration: none;
@@ -44,7 +44,7 @@ p{
 /* ================================================================================== */
 .about-sec img{ 
     height: 600px;
-    width: 70%;
+    width: 100%;
     display: inline-block;
     padding-top: 35px;
     
@@ -79,6 +79,9 @@ p{
 .section-title h2{
     font-size: 40px;
     color:#575757;
+}
+.section-title p{
+    line-height:26px;
 }
 .third-one-width{
     width: 30%;
@@ -159,10 +162,11 @@ p{
 }
 .special-img img{
     height: 300px;
-    width:300px;
+    width:280px;
 }
 .special-content{
     padding-left: 30px;
+    padding-right: 5px;
 }
 .special-food .displayflex{
     padding:0 45px;
