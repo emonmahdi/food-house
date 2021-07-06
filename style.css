@@ -96,8 +96,30 @@ p{
     font-size: 25px;
 }
 /* ============================================================================================= */
-.count{
+.our-chefs{
+    background: url(images/shapes/chefs.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:30px 0;
+}
+.our-chefs .displayflex{
+    padding:0 45px;
     margin-bottom: 100px;
+}
+.our-chefs .third-one-width{
+    text-align: center;
+    background: #fff;
+}
+.our-chefs img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+
+/* ============================================================================================= */
+.count{
+    margin: 100px 0; 
 }
 .count .third-one-width{
     box-shadow: none;
